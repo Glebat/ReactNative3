@@ -1,8 +1,8 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
-import Me from './components/me'; // Обновлён путь
-import Lang from './components/Lang'; // Обновлён путь
+import Me from './components/me'; 
+import Lang from './components/Lang'; 
 
 const Tab = createBottomTabNavigator();
 
